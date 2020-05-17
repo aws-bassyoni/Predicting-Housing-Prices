@@ -1,0 +1,6 @@
+# Dont track:
+
+*.pptx
+*.png
+*.docx
+Data/
